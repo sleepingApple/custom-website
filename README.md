@@ -1,2 +1,2 @@
 # custom-website
-Newsletter style webstite about the life of ducks.
+Newsletter style website about the life of ducks made with tailwind css.
